@@ -1,0 +1,4 @@
+language: python
+script:
+  - pep8 --show-source --show-pep8 *.py
+  - pylint *.py
