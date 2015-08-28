@@ -3,7 +3,6 @@ This is a dummy python module that sleeps and prints
 """
 import time
 
-
 def print_n(message, count, interval=None):
     """
     Print [message] [count] times at a given [interval]
